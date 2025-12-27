@@ -14,4 +14,4 @@ class Main {
        else if(p1 == p2) System.out.println("Ties");
        else System.out.println("Invalid Input");
     }
-Ro
+}
